@@ -2,6 +2,7 @@
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
+  "type": "module",
   "name": "my_games",
   "version": "1.0.0",
   "scripts": {
@@ -12,7 +13,7 @@
     "url": "git+https://github.com/Serega20581/MyGames.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sergei Toptunov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Serega20581/MyGames/issues"
