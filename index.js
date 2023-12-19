@@ -1,4 +1,4 @@
-const readlineSync = require('readline-sync');
+import readlineSync from 'readline-sync';
 function getRandomChoice() {
   const choices = ['Камень', 'Ножницы', 'Бумага'];
   const randomIndex = Math.floor(Math.random() * choices.length);
